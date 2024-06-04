@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello there!  
+## Sometimes, I make computers compute
+> [!WARNING]
+> Sometimes, though, I do not
+
+# My Projects:
+- LarryOS
+  -   Firmware for the Lilygo t-wrist, an ESP32 e-ink smartwatch/
+- A Website, at some point
 
 <!--
 **alex-sugden/alex-sugden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
